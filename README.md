@@ -1,2 +1,0 @@
-# poo
-Full screen thing
